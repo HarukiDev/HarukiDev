@@ -6,7 +6,9 @@ Perkenalkan nama saya *Jimmy Maulana*.<br>
 
 ## 💻 My Tech Stack
 <div align="center">
+    
     [![My Skills](https://skillicons.dev/icons?i=python,js,java,react,vue,tailwind,mysql)](https://skillicons.dev)
+    
 </div>
 
 ## 🏆 GitHub Stats
