@@ -20,9 +20,9 @@ Perkenalkan nama saya *Jimmy Maulana*.<br>
 
 </div>
 
-<div align="center"  margin-top="20px">
+<div align="center">
     <a href = "https://github.com/HarukiDev/">
-            <img src="https://github-profile-trophy.vercel.app/?username=HarukiDev&column=-1&theme=tokyonight" style="display:margin-top=10px;"/> 
+            <img src="https://github-profile-trophy.vercel.app/?username=HarukiDev&column=-1&theme=tokyonight" /> 
         <br>
         <br>
              <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarukiDev&theme=github-compact" />
