@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-Perkenalkan nama saya **Jimmy Maulana**.<br>
-
-## Hi there 👋
-
 Perkenalkan nama saya *Jimmy Maulana*.<br>
 
 <p>I am a 5th-semester Informatics Engineering student at Universitas Sriwijaya with experience in multimedia content management, such as graphic design, and front-end web development for campus organizations. I am committed to continuously developing my skills in information technology, particularly in web development and user interface design, as a foundation for my future career.</p>
