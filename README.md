@@ -15,6 +15,7 @@ Perkenalkan nama saya *Jimmy Maulana*.<br>
   [![](https://visitcount.itsvg.in/api?id=HarukiDev&icon=1&color=6)](https://visitcount.itsvg.in)
 
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarukiDev&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=6" alt="HarukiDev" />
+  <br>
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarukiDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </div>
 
