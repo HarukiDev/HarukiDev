@@ -19,17 +19,9 @@ Perkenalkan nama saya *Jimmy Maulana*.<br>
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarukiDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </div>
 
-<div align="center">
-    <a href="https://github.com/HarukiDev">
-        <img src="https://github-profile-trophy.vercel.app/?username=HarukiDev&column=-1&theme=tokyonight" />
-        <br>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarukiDev&theme=github-compact" />
-    </a>
-</div>
-
 <div align="center"  margin-top="10px">
     <a href = "https://github.com/HarukiDev/">
-                <img src="https://github-profile-trophy.vercel.app/?username=HarukiDev&column=-1&theme=tokyonight" /> 
+            <img src="https://github-profile-trophy.vercel.app/?username=HarukiDev&column=-1&theme=tokyonight" /> 
         <br>
         <br>
              <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarukiDev&theme=github-compact" />
