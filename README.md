@@ -13,7 +13,6 @@ Perkenalkan nama saya *Jimmy Maulana*.<br>
 <div align="center">
     
   [![](https://visitcount.itsvg.in/api?id=HarukiDev&icon=1&color=6)](https://visitcount.itsvg.in)
-  [![wakatime](https://wakatime.com/badge/user/018b4364-815a-42cb-9de9-a58342cf7959.svg)](https://wakatime.com/@018b4364-815a-42cb-9de9-a58342cf7959)
 
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarukiDev&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=6" alt="HarukiDev" />
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarukiDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
