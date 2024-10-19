@@ -5,8 +5,9 @@ Perkenalkan nama saya *Jimmy Maulana*.<br>
 <p>I am a 5th-semester Informatics Engineering student at Universitas Sriwijaya with experience in multimedia content management, such as graphic design, and front-end web development for campus organizations. I am committed to continuously developing my skills in information technology, particularly in web development and user interface design, as a foundation for my future career.</p>
 
 ## 💻 My Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,react,vue,tailwind,mysql)](https://skillicons.dev)
+<div align="center">
+    [![My Skills](https://skillicons.dev/icons?i=python,js,java,react,vue,tailwind,mysql)](https://skillicons.dev)
+</div>
 
 ## 🏆 GitHub Stats
 
