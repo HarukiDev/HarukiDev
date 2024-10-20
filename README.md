@@ -8,7 +8,7 @@ Perkenalkan nama saya *Jimmy Maulana*.<br>
 <div align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,java,react,vue,tailwind,mysql,mongoDB" />
+    <img src="https://skillicons.dev/icons?i=python,js,java,react,vue,tailwind,mysql,mongodb" />
   </a>
 
 </div>
