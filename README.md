@@ -11,7 +11,7 @@ Perkenalkan nama saya *Jimmy Maulana*.<br>
     <img src="https://skillicons.dev/icons?i=python,js,java,react,vue,html,css,tailwind,bootstrap,mysql,mongodb,php" />
   </a>
   <a href="https://cloud.google.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="48" height="48" alt="Google Cloud">
+    <img src="https://api.iconduck.com/icons/preview/133eb45f-fde7-4608-8452-75481d68b852" width="48" height="48" alt="Google Cloud">
   </a>
 
 </div>
