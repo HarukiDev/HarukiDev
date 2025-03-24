@@ -4,12 +4,17 @@ Perkenalkan nama saya *Jimmy Maulana*.<br>
 
 <p>I am a 6th-semester Informatics Engineering student at Universitas Sriwijaya with experience in multimedia content management, such as graphic design, and front-end web development for campus organizations. I am committed to continuously developing my skills in information technology, particularly in web development and user interface design, as a foundation for my future career.</p>
 
-## 🔗 Portfolio Website: jimmy-maulana.vercel.app
+## 🔗 Portfolio Website:
+<div>
+  <a href="https://jimmy-maulana.vercel.app/">My Personal Web Portofolio</a>
+</div>
 
 ## ☁ Google Cloud Public Profiles:
 <div align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/6da92501-a6aa-49d1-be13-b28743a80ca6">My GCSB Profile Account 1</a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/887d939f-a66e-4de2-856f-6624eb85e52e">My GCSB Profile Account 2</a>
+  <ul style="list-style: none; padding: 0;">
+    <li><a href="https://www.cloudskillsboost.google/public_profiles/6da92501-a6aa-49d1-be13-b28743a80ca6">My GCSB Profile Account 1</a></li>
+    <li><a href="https://www.cloudskillsboost.google/public_profiles/887d939f-a66e-4de2-856f-6624eb85e52e">My GCSB Profile Account 2</a></li>
+  </ul>
 </div>
 
 ## 💻 My Tech Stack
