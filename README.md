@@ -10,7 +10,7 @@ Perkenalkan nama saya *Jimmy Maulana*.<br>
 </div>
 
 ## ☁ Google Cloud Public Profiles:
-<div align="center">
+<div>
   <ul style="list-style: none; padding: 0;">
     <li><a href="https://www.cloudskillsboost.google/public_profiles/6da92501-a6aa-49d1-be13-b28743a80ca6">My GCSB Profile Account 1</a></li>
     <li><a href="https://www.cloudskillsboost.google/public_profiles/887d939f-a66e-4de2-856f-6624eb85e52e">My GCSB Profile Account 2</a></li>
