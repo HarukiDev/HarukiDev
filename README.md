@@ -8,7 +8,10 @@ Perkenalkan nama saya *Jimmy Maulana*.<br>
 <div align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,java,react,vue,html,css,tailwind,bootstrap,mysql,mongodb,php,gcloud" />
+    <img src="https://skillicons.dev/icons?i=python,js,java,react,vue,html,css,tailwind,bootstrap,mysql,mongodb,php" />
+  </a>
+  <a href="https://cloud.google.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="48" height="48" alt="Google Cloud">
   </a>
 
 </div>
